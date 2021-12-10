@@ -1,0 +1,204 @@
+{
+    "skills":[
+        {
+            "skill": "Java",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "Python",
+            "rate": "🟡🟡🟡🟡⚪"
+        },
+        {
+            "skill": "C++",
+            "rate": "🟡🟡🟡🟡⚪"
+        },
+        {
+            "skill": "Shell Scripting",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "Javascript",
+            "rate": "🟡🟡⚪⚪⚪"
+        },
+        {
+            "skill": "CSS",
+            "rate": "🟡🟡⚪⚪⚪"
+        },
+        {
+            "skill": "Bootstrap",
+            "rate": "🟡🟡⚪⚪⚪"
+        },
+        {
+            "skill": "D3.js",
+            "rate": "🟡🟡🟡⚪⚪"
+        },
+        {
+            "skill": "SQL / PL-SQL",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "NOSQL",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "Oracle Database",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "MySQL",
+            "rate": "🟡🟡🟡🟡⚪"
+        },
+        {
+            "skill": "MongoDB",
+            "rate": "🟡🟡🟡🟡⚪"
+        },
+        {
+            "skill": "Hadoop",
+            "rate": "🟡⚪⚪⚪⚪"
+        },
+        {
+            "skill": "Kafka",
+            "rate": "🟡⚪⚪⚪⚪"
+        },
+        {
+            "skill": "Docker",
+            "rate": "🟡🟡🟡⚪⚪"
+        },
+        {
+            "skill": "Kubernetes",
+            "rate": "🟡⚪⚪⚪⚪"
+        },
+        {
+            "skill": "Tableau",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "Spring",
+            "rate": "🟡🟡⚪⚪⚪"
+        }
+
+    ],
+
+    "pythonLibs":[
+        {
+            "skill": "Scikit-learn",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "Scikit-fuzzy",
+            "rate": "🟡🟡🟡🟡⚪"
+        },
+        {
+            "skill": "Panda",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "NumPy",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "Matplotlib",
+            "rate": "🟡🟡🟡🟡⚪"
+        },
+        {
+            "skill": "Tensorflow",
+            "rate": "🟡🟡⚪⚪⚪"
+        },
+        {
+            "skill": "Pickle",
+            "rate": "🟡🟡🟡🟡⚪"
+        }
+    ],
+    "mlAlgorithms":[
+        {
+            "skill": "K-means",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "C-means",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "DBSCAN",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "CART",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "C4.5",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "Genetic Algorithms",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "Linear Regression",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "Apriori",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "Miltilayer Perceptron",
+            "rate": "🟡🟡🟡🟡🟡"
+        }
+    ],
+    "tools":[
+        {
+            "skill": "Jupyter Lab",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "IntelliJ",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "GitHub",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "Laragon",
+            "rate": "🟡🟡🟡⚪⚪"
+        },
+        {
+            "skill": "Visual Studio Code",
+            "rate": "🟡🟡🟡🟡⚪"
+        },
+        {
+            "skill": "SQL Developer",
+            "rate": "🟡🟡🟡🟡🟡"
+        },
+        {
+            "skill": "Jira",
+            "rate": "🟡🟡🟡🟡🟡"
+        }
+    ],
+    "lenguages":[
+        {
+            "lenguage": "Spanish",
+            "level": "Navite"
+        },
+        {
+            "lenguage": "English",
+            "level": "Full"
+        }
+    ],
+    "education":[
+        {
+            "degree": "Universidad Internacional De La Rioja",
+            "institute": "Master of Science: Big Data and Data Science"
+        },
+        {
+            "degree": "Bachelor Degree: Control and Computer Engineering",
+            "institute": "Universidad Metropolitana de Monterrey"
+        },
+        {
+            "degree": "Technical Degree: System and Network Analyst",
+            "institute": "Instituto de Estudios de Sistemas  de Monterrey"
+        }
+    ]    
+}
