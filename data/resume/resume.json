@@ -200,5 +200,12 @@
             "degree": "Technical Degree: System and Network Analyst",
             "institute": "Instituto de Estudios de Sistemas  de Monterrey"
         }
-    ]    
+    ],
+    "cartificates":[
+        {
+            "degree": "Oracle Cloud Infrastructure Foundations (2021)",
+            "institute": "Oracle University",
+            "image": "OCI_Fundations 2021_1Z0-1085-21"
+        }
+    ]        
 }

@@ -6,6 +6,10 @@
   height: 100px;
 }
 
+.badge {
+  height: 80px;
+}
+
 .avatar {
   height: 150px;
 }

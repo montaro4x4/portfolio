@@ -110,7 +110,39 @@ d3.json('data/resume/resume.json')
                 educationList.appendChild(degreeElement);
                 educationList.appendChild(instituteElement);
                 educationList.appendChild(spaceElement);
-            });             
+            });  
+
+        data["cartificates"].forEach(d => 
+            {
+                rowCertificate = document.createElement("DIV");
+                rowCertificate.className="row";
+                divBadge = document.createElement("DIV");
+                divBadge.className="col-12 col-md-2 col-lg-2 col-xl-2 col-xxl-1";
+                divBadge.id="badge";
+                divInfo = document.createElement("DIV");
+                divInfo.className="col-12 col-md-10 col-lg-10 col-xl-10 col-xxl-11";                
+                divInfo.id="info";
+                certificatesList = document.getElementById("certificatesList");
+                certificatesList.appendChild(rowCertificate);
+                rowCertificate.appendChild(divBadge);
+                rowCertificate.appendChild(divInfo);
+                badge = document.getElementById("badge");
+                info  = document.getElementById("info");
+                degreeElement = document.createElement("H2");
+                degreeElement.innerHTML = d.degree;
+                instituteElement = document.createElement("H5");
+                instituteElement.innerHTML = d.institute;
+                spaceElement = document.createElement("P");
+                spaceElement.innerHTML = "&nbsp;";
+                certificateElement = document.createElement("IMG");
+                certificateElement.src = "certificates/"+d.image+".jpg"
+                certificateElement.className = "logo"
+                badge.appendChild(certificateElement);
+                info.appendChild(degreeElement);
+                info.appendChild(instituteElement);
+                rowCertificate.appendChild(spaceElement);
+                
+            });                         
     });
 
 
