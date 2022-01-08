@@ -206,6 +206,11 @@
             "degree": "Oracle Cloud Infrastructure Foundations (2021)",
             "institute": "Oracle University",
             "image": "OCI_Fundations 2021_1Z0-1085-21"
-        }
+        },
+        {
+            "degree": "Oracle Machine Learning using Autonomous Database 2021 Certified Specialist",
+            "institute": "Oracle University",
+            "image": "OML ADW Specialist 2021- 1Z0-1096-21"
+        }		
     ]        
 }
